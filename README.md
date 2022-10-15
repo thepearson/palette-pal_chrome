@@ -21,7 +21,7 @@ This extension adds contextual menu integration to Palette Pal when using Chrome
 
 4. Click on `Load Unpacked` and select the folder where this codebase is stored.
 
-    ![Load Unpacked](https://github.com/thepearson/palette-pal_chrome/blob/main/images/load-unpacked.png?raw=true)
+    ![Load Unpacked](https://github.com/thepearson/palette-pal_chrome/blob/main/images/load-extension.png?raw=true)
 
 
 ## Usage
