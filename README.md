@@ -2,6 +2,8 @@
 
 This extension adds contextual menu integration to Palette Pal when using Chrome.
 
+![Extension - Action icon](https://github.com/thepearson/palette-pal_chrome/blob/main/images/extension.png?raw=true)
+
 ![Example of context menu](https://github.com/thepearson/palette-pal_chrome/blob/main/images/screen-001.png?raw=true)
 
 
