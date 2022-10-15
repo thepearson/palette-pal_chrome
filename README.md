@@ -23,8 +23,16 @@ This extension adds contextual menu integration to Palette Pal when using Chrome
 
     ![Load Unpacked](https://github.com/thepearson/palette-pal_chrome/blob/main/images/load-extension.png?raw=true)
 
+5. Once loaded set the base Palette Pal installation. Right click on the Action icon (the extention icon) and go to `options` set the url in the text field and press `Save`. If you don't have an installation you can use the demo site here. 
+
 
 ## Usage
 
+### Creating a palette from an image.
+
+Right click on an image and click on `Extract colors with Palette Pal`
+
+![Extract colors](https://github.com/thepearson/palette-pal_chrome/blob/main/images/extract.png?raw=true)
 
 
+### Setting 
